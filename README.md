@@ -1,8 +1,10 @@
 <div align="center">
 
-# Vanj | vanjDev
+<img alt="Vanj profile header" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=190&section=header&text=Vanj%20%7C%20vanjDev&fontSize=42&fontColor=c0caf5&fontAlignY=36&animation=twinkling&desc=Student%20Developer%20%2B%20Automation%20Builder&descSize=16&descAlignY=58">
 
-Student developer building practical tools, automation scripts, and clean app experiments.
+<a href="https://git.io/typing-svg">
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=700&color=7AA2F7&center=true&vCenter=true&width=720&lines=Python+automation+and+developer+tools;JavaScript+apps+with+student-first+workflows;Lua%2C+C%2B%2B%2C+and+Java+project+experiments;Build+small+%3E+make+it+useful+%3E+make+it+clean">
+</a>
 
 <a href="https://github.com/vanjDev?tab=repositories">
   <img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-vanjDev-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -23,13 +25,9 @@ I like building small, useful software that turns repetitive work into something
 ## Tech Stack
 
 <p align="center">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-1f2335?style=for-the-badge&logo=javascript&logoColor=f7df1e">
-  <img alt="Python" src="https://img.shields.io/badge/Python-1f2335?style=for-the-badge&logo=python&logoColor=7aa2f7">
-  <img alt="Lua" src="https://img.shields.io/badge/Lua-1f2335?style=for-the-badge&logo=lua&logoColor=bb9af7">
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-1f2335?style=for-the-badge&logo=cplusplus&logoColor=7dcfff">
-  <img alt="Java" src="https://img.shields.io/badge/Java-1f2335?style=for-the-badge&logo=openjdk&logoColor=f7768e">
-  <img alt="Git" src="https://img.shields.io/badge/Git-1f2335?style=for-the-badge&logo=git&logoColor=f7768e">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-1f2335?style=for-the-badge&logo=github&logoColor=c0caf5">
+  <a href="https://skillicons.dev">
+    <img alt="Skill icons" src="https://skillicons.dev/icons?i=js,python,lua,cpp,java,git,github,vscode,visualstudio,windows&theme=dark&perline=10">
+  </a>
 </p>
 
 ## Featured Projects
@@ -58,6 +56,14 @@ I like building small, useful software that turns repetitive work into something
   <img alt="Productive time" src="profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%">
 </p>
 
+## Contribution Trail
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vanjDev/vanjDev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vanjDev/vanjDev/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/vanjDev/vanjDev/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
 ## Current Direction
 
 I am sharpening my fundamentals while building projects that solve real problems: cleaner automation, better student tools, useful desktop/web utilities, and more reliable project structure.
@@ -65,5 +71,7 @@ I am sharpening my fundamentals while building projects that solve real problems
 <div align="center">
 
 `build small` -> `make it useful` -> `make it clean`
+
+<img alt="Vanj profile footer" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:7aa2f7,100:1a1b27&height=120&section=footer&animation=twinkling">
 
 </div>
