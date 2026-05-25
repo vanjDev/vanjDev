@@ -28,11 +28,11 @@ I build practical software around school workflows, media tools, image verificat
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [Obscura Dashboard](https://tambytes.com) | Image protection and ownership verification dashboard with create, verify, and robustness flows | Python, web dashboard, image/security tooling |
+| [Obscura](https://tambytes.com) | Image protection and ownership verification dashboard with create, verify, and robustness flows | Python, web dashboard, image/security tooling |
 | [Study Hub](https://quiz.tambytes.com) | Quiz and flashcard workspace for creating decks, importing PDFs, and practicing study sets | Python, PDF tooling, study workflow UI |
 | [EasyMP3](https://mp3.tambytes.com) | Music download dashboard for YouTube links/search terms with single-track and artist modes | Flask, yt-dlp, media automation |
 | [Ravanzel](https://ra.vanzel.shop) | Project site and browser playground for the Ravanzel compiler/tooling work | JavaScript, docs site, compiler playground |
-| Batangas City FiveM Server | Private FiveM roleplay server work focused on gameplay systems, utility tooling, and operations | Lua, FiveM, server tooling, Discord automation |
+| [FiveM Server](https://batanags.games/) | Private FiveM roleplay server work focused on gameplay systems, utility tooling, and operations | Lua, FiveM, server tooling, Discord automation |
 
 ## Tech Stack
 
