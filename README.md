@@ -1,60 +1,58 @@
 <div align="center">
 
-<img alt="Vanj profile header" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=190&section=header&text=Vanj%20%7C%20vanjDev&fontSize=42&fontColor=c0caf5&fontAlignY=36&animation=twinkling&desc=Student%20Developer%20%2B%20Automation%20Builder&descSize=16&descAlignY=58">
+<img alt="VanjDev profile header" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:2563eb,100:22c55e&height=190&section=header&text=VanjDev&fontSize=46&fontColor=f8fafc&fontAlignY=38&animation=twinkling&desc=Student%20Developer%20%7C%20Automation%20Builder%20%7C%20App%20Maker&descSize=16&descAlignY=60">
 
 <a href="https://git.io/typing-svg">
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=700&color=7AA2F7&center=true&vCenter=true&width=720&lines=Python+automation+and+developer+tools;JavaScript+apps+with+student-first+workflows;Lua%2C+C%2B%2B%2C+and+Java+project+experiments;Build+small+%3E+make+it+useful+%3E+make+it+clean">
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Manrope&weight=700&size=24&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=820&lines=I+build+student+tools%2C+dashboards%2C+and+automation.;Python+backends+%2B+React+frontends+%2B+Lua%2FFiveM+systems.;Small+idea+-%3E+working+tool+-%3E+cleaner+experience.">
 </a>
+
+<br>
 
 <a href="https://github.com/vanjDev?tab=repositories">
   <img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-vanjDev-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<img alt="Focus" src="https://img.shields.io/badge/Focus-automation%20%7C%20apps%20%7C%20tools-7aa2f7?style=for-the-badge">
-<img alt="Location" src="https://img.shields.io/badge/UTC%2B8-Manila-9ece6a?style=for-the-badge">
+<img alt="Focus" src="https://img.shields.io/badge/Focus-live%20apps%20%7C%20automation%20%7C%20server%20tools-2563eb?style=for-the-badge">
+<img alt="Location" src="https://img.shields.io/badge/UTC%2B8-Manila-22c55e?style=for-the-badge">
 
 </div>
 
 ## About
 
-I like building small, useful software that turns repetitive work into something cleaner and easier to use. My projects lean toward Python utilities, JavaScript apps, school systems, automation helpers, and experiments around game/server tooling.
+I build practical software around school workflows, media tools, image verification, automation, and game/server systems. I like projects that feel useful first: clear UI, reliable backend behavior, and enough polish that people can actually use them.
 
-- Building practical tools with Python and JavaScript
-- Exploring C++, Java, and Lua through projects and coursework
-- Keeping projects simple, readable, and useful before making them fancy
+- Building web apps and dashboards with Python, JavaScript, TypeScript, and React
+- Automating Discord, study, file, media, and deployment workflows
+- Working on Lua/FiveM server systems while keeping private repo details private
+
+## Live Builds
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [Obscura Dashboard](https://tambytes.com) | Image protection and ownership verification dashboard with create, verify, and robustness flows | Python, web dashboard, image/security tooling |
+| [Study Hub](https://quiz.tambytes.com) | Quiz and flashcard workspace for creating decks, importing PDFs, and practicing study sets | Python, PDF tooling, study workflow UI |
+| [EasyMP3](https://mp3.tambytes.com) | Music download dashboard for YouTube links/search terms with single-track and artist modes | Flask, yt-dlp, media automation |
+| [Ravanzel](https://ra.vanzel.shop) | Project site and browser playground for the Ravanzel compiler/tooling work | JavaScript, docs site, compiler playground |
+| Batangas City FiveM Server | Private FiveM roleplay server work focused on gameplay systems, utility tooling, and operations | Lua, FiveM, server tooling, Discord automation |
 
 ## Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img alt="Skill icons" src="https://skillicons.dev/icons?i=js,python,lua,cpp,java,git,github,vscode,visualstudio,windows&theme=dark&perline=10">
+    <img alt="Skill icons" src="https://skillicons.dev/icons?i=python,flask,js,ts,react,vite,tailwind,lua,cpp,java,mysql,git,github,linux,nginx,vscode,visualstudio,windows&theme=dark&perline=9">
   </a>
 </p>
 
-## Featured Projects
-
-| Project | What it shows | Stack |
-| --- | --- | --- |
-| [FEUTech-GPACalc](https://github.com/vanjDev/FEUTech-GPACalc) | GPA calculation workflow with a focused student use case | JavaScript |
-| [Lumen](https://github.com/vanjDev/Lumen) | Python project work and backend/tooling practice | Python |
-| [AutoFGLUT](https://github.com/vanjDev/AutoFGLUT) | Visual Studio FreeGLUT setup automation for C++ projects | Python, C++ tooling |
-| [Better-YT-MP3](https://github.com/vanjDev/Better-YT-MP3) | YouTube audio search/download utility optimized for MP3 playback | Python |
-| [BudgetTracker](https://github.com/vanjDev/BudgetTracker) | Personal finance tracking app experiment | Python |
-
-## GitHub Activity
-
 <p align="center">
-  <img alt="GitHub profile summary" src="profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%">
+  <img alt="Python" src="https://img.shields.io/badge/Python-backends%20%26%20automation-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React%20%2B%20Vite-frontend%20apps-61DAFB?style=flat-square&logo=react&logoColor=0f172a">
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-web%20services-000000?style=flat-square&logo=flask&logoColor=white">
+  <img alt="Lua" src="https://img.shields.io/badge/Lua-FiveM%20systems-2C2D72?style=flat-square&logo=lua&logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-clean%20UI%20work-3178C6?style=flat-square&logo=typescript&logoColor=white">
 </p>
 
-<p align="center">
-  <img alt="Repositories per language" src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%">
-  <img alt="Most committed languages" src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%">
-</p>
+## Current Direction
 
-<p align="center">
-  <img alt="GitHub stats" src="profile-summary-card-output/tokyonight/3-stats.svg" width="49%">
-  <img alt="Productive time" src="profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%">
-</p>
+I am sharpening the same core loop across my projects: make the tool useful, make it stable, then make it feel better to use. Right now that means better student tools, cleaner media utilities, stronger verification workflows, and more reliable server-side systems.
 
 ## Contribution Trail
 
@@ -64,14 +62,10 @@ I like building small, useful software that turns repetitive work into something
   <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/vanjDev/vanjDev/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
-## Current Direction
-
-I am sharpening my fundamentals while building projects that solve real problems: cleaner automation, better student tools, useful desktop/web utilities, and more reliable project structure.
-
 <div align="center">
 
-`build small` -> `make it useful` -> `make it clean`
+`build small` -> `ship useful` -> `make it clean`
 
-<img alt="Vanj profile footer" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:7aa2f7,100:1a1b27&height=120&section=footer&animation=twinkling">
+<img alt="VanjDev profile footer" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,55:2563eb,100:0d1117&height=120&section=footer&animation=twinkling">
 
 </div>
