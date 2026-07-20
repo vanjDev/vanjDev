@@ -52,7 +52,7 @@ Most of my projects sit where product thinking meets practical engineering: Pyth
 
 <div align="center">
 
-<img src="./assets/vj-logo.webp" alt="VJ" width="64">
+<img src="./assets/vj-logo.svg" alt="VJ" width="64">
 
 **Build useful things. Make them feel good to use.**
 
