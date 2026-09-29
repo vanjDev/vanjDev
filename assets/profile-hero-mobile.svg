@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 310" role="img" aria-labelledby="title desc">
+  <title id="title">Jhevan Baque</title>
+  <desc id="desc">Mobile banner with Jhevan's name and VJ monogram.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="600" y2="310" gradientUnits="userSpaceOnUse"><stop stop-color="#0A101B"/><stop offset="1" stop-color="#14243A"/></linearGradient>
+    <linearGradient id="silver" x1="37" y1="23" x2="159" y2="162" gradientUnits="userSpaceOnUse"><stop stop-color="#FFFFFF"/><stop offset=".5" stop-color="#8B98AA"/><stop offset="1" stop-color="#EAF2FA"/></linearGradient>
+  </defs>
+  <rect width="600" height="310" fill="url(#background)"/>
+  <rect x="34" y="49" width="4" height="112" fill="#88B9FA"/>
+  <text x="58" y="102" fill="#F7FAFF" font-family="Segoe UI, Arial, sans-serif" font-size="56" font-weight="700" letter-spacing="-2">JHEVAN</text>
+  <text x="58" y="158" fill="#F7FAFF" font-family="Segoe UI, Arial, sans-serif" font-size="56" font-weight="700" letter-spacing="-2">BAQUE</text>
+  <text x="36" y="207" fill="#C7D5E6" font-family="Segoe UI, Arial, sans-serif" font-size="24">Building useful software, end to end.</text>
+  <path d="M36 237H564" stroke="#6E829A" stroke-opacity=".6"/>
+  <text x="36" y="272" fill="#A9BED6" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="600" letter-spacing="2">WEB · AUTOMATION · DEVELOPER TOOLS</text>
+  <circle cx="489" cy="103" r="70" fill="#101A28" stroke="#70849B" stroke-opacity=".28"/>
+  <g transform="translate(416 34) scale(.76)" fill="url(#silver)" stroke="#F4F8FD" stroke-opacity=".32" stroke-width=".8" stroke-linejoin="round">
+    <path d="M19 29 L50 29 L92 112 L105 84 L110 84 L113 90 L83 145 L77 145 Z"/>
+    <path d="M141 29 L172 29 L160 61 L160 109 C160 137 147 157 125 166 C106 173 87 169 73 156 C92 160 108 154 120 142 C131 131 135 116 135 98 L147 64 L124 64 L132 48 Z"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" role="img" aria-labelledby="title desc">
+  <title id="title">byvanj bot</title>
+  <desc id="desc">A featured project: a no-code Discord bot builder.</desc>
+  <defs><linearGradient id="background" x1="0" y1="0" x2="1200" y2="180" gradientUnits="userSpaceOnUse"><stop stop-color="#17274B"/><stop offset="1" stop-color="#101522"/></linearGradient></defs>
+  <rect width="1200" height="180" rx="12" fill="url(#background)"/>
+  <rect x="0" y="0" width="7" height="180" rx="3.5" fill="#798EFF"/>
+  <text x="44" y="80" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="700" letter-spacing="-1.5">byvanj bot</text>
+  <text x="45" y="123" fill="#C9D4ED" font-family="Segoe UI, Arial, sans-serif" font-size="25">Build and run Discord bots without code.</text>
+  <text x="45" y="155" fill="#93A9E0" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="2">LIVE PRODUCT</text>
+  <g transform="translate(1009 37)" fill="none" stroke="#91A4FF" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="3" y="34" width="129" height="80" rx="25"/><path d="M68 34V12M53 12h30"/>
+    <circle cx="40" cy="74" r="6" fill="#91A4FF" stroke="none"/><circle cx="96" cy="74" r="6" fill="#91A4FF" stroke="none"/><path d="M49 95c11 8 27 8 38 0"/>
+  </g>
+</svg>
