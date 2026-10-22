@@ -14,5 +14,5 @@ I'm a student developer in the Philippines building web products, automation, an
 ## What I use
 
 **Web:** React, TypeScript, Tailwind CSS, Three.js<br>
-**Services:** Python, Go<br>
+**Services:** Python, Go, Rust<br>
 **Shipping:** GitHub Actions, Linux, Nginx
